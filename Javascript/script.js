@@ -154,6 +154,11 @@ console.log(getInfo(1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12));
 
 const personArray = [
     {
+        name: 'Shrikant',
+        age: 48,
+        country: 'USA'
+    },
+    {
         name: 'Ritesh',
         age: 21,
         country: 'INDIA'
@@ -162,11 +167,6 @@ const personArray = [
         name: 'Divyanka',
         age: 20,
         country: 'INDIA'
-    },
-    {
-        name: 'Shrikant',
-        age: 48,
-        country: 'USA'
     }
 ];
 
