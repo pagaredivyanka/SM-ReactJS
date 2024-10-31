@@ -216,7 +216,7 @@ console.log(checkEveryArrayMethod);
 
 //includes
 
-const fruitArray = ["apple", "banana", "orange"];
+const fruitArray = ["apple", "banana", "orange", "kiwi"];
 
 console.log(fruitArray.includes("apple"), fruitArray.indexOf("apple")); // true 0 (ture -> bcs apple is present and 0 is the index of apple)
 
