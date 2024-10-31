@@ -113,7 +113,7 @@ console.log(getFirstElement, getSecondElement);
 
 /*
 
-// if wyou try to fetch fourth element it gives undefined in console
+// if you try to fetch 4th element it gives undefined in console
 
 const [
 getFirstElement, 
